@@ -1,0 +1,8 @@
+Attack,Total_Valid_Samples,Successful_Attacks,Failed_Attacks,ASR
+AutoAttack,500,500,0,100.00%
+PGD,500,500,0,100.00%
+BIM,500,500,0,100.00%
+MIFGSM,500,500,0,100.00%
+FGSM,737,500,237,67.84%
+DeepFool,500,500,0,100.00%
+CW,500,500,0,100.00%
